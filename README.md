@@ -7,4 +7,4 @@ Recipes and recipe reviews data sets merged, prepared, and analyzed.
 To be completed 
 
 #### Article #3: Dashboard
-In this final article, we help you make that decision on which recipe to choose. To be completed.
+We build a dashboard in Django. In this final article, we help you make that decision on which recipe to choose. To be completed.
